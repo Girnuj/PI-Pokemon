@@ -1,0 +1,16 @@
+.cards_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    /* margin: 20px; */
+    /* margin-top: 40px;    */
+    flex-direction: column;
+}
+
+/* .pagination{
+    margin-top: 10px;
+} */
+
